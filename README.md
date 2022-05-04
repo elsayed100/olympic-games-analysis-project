@@ -3,7 +3,7 @@ In this Project i visualize olympic games data that will help readers understand
 
 ### Busniess Problem:
 The challenge for this data analyst project is outlined below.
-* [Business Problem.pdf](https://github.com/elsayed100/olympic-games-analysis-project/blob/main/Business%20Problem.pptx)
+* [Business Problem.pdf](https://github.com/elsayed100/olympic-games-analysis-project/blob/main/Business%20Problem.pdf)
 
 ## About The Dataset:
 This dataset contains historical olymoic games for all countries and their champions who qualified for the Olympics from 1986 to 2016.
